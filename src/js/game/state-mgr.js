@@ -1,9 +1,8 @@
-import { GameState } from '../consts';
 
 class StateManager {
   constructor() {
     this.controllerMap = null;
-    this.gameState = GameState.Idle;
+    // this.gameState = GameState.Idle;
   }
   init(controllerMap) {
     this.controllerMap = controllerMap;

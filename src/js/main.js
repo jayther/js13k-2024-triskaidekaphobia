@@ -1,5 +1,4 @@
 
-import { GameState } from './consts';
 import { controllerMap } from './game/controllers';
 import { stateManager } from './game/state-mgr';
 
@@ -8,7 +7,7 @@ const viewport = { width: 680, height: 940 };
 function gameInit() {
   resize();
   stateManager.init(controllerMap);
-  stateManager.setGameState(GameState.MainMenu);
+  // stateManager.setGameState(GameState.MainMenu);
   // stateManager.setGameState(GameState.Leaderboard, {
   //   score: randInt(1, 100),
   //   timestamp: Date.now(),
