@@ -1,7 +1,7 @@
 13th step - JS13K Games 2024 - Triskaidekaphobia
 =======================================
 
-[![pages-build-deployment](https://github.com/jayther/js13k-2022-death/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jayther/js13k-2022-death/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/jayther/js13k-2024-triskaidekaphobia/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jayther/js13k-2024-triskaidekaphobia/actions/workflows/pages/pages-build-deployment)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,7 +15,7 @@ TODO insert game description here
 
 Try the submitted entry at: TODO
 
-Try the current state of the game at: TODO
+Try the current state of the game at: https://jayther.github.io/js13k-2024-triskaidekaphobia/
 
 ## Instructions
 
